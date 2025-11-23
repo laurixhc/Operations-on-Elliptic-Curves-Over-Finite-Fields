@@ -1,5 +1,3 @@
-#Laura Henrí­quez Cazorla
-#Entrega evaluable 5
 
 #Esta función se encarga de devolver un conjunto con los puntos que pertenecen a la curva sin repetirse ninguno (p primo)
 def puntos(p):
